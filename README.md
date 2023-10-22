@@ -2,6 +2,6 @@
 
 
 
-!(images/limpieza_tiburon.jpeg)
+![Imagen local](images/limpieza_tiburon.jpeg)
 
 
