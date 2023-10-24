@@ -14,7 +14,7 @@ Al final de nuestra limpieza deben quedar al menos 2500 filas y 23 columnas.
 
 1) Importar las librerías que creo que necesitaré para realizar la lipieza de datos, los gráficos, etc
 
-2) Carga del DCV de donde extraemos los datos
+2) Carga del CSV de donde extraemos los datos
 
 3) Limpieza global de datos
 
@@ -54,7 +54,7 @@ Al final de nuestra limpieza deben quedar al menos 2500 filas y 23 columnas.
   
   -SUDÁFRICA: Fatalidad y género de las víctimas
     
-7) Finalmente unas recomendaciones por si te encontrás con un tiburón... sobre todo si sos hombre y estás en USA, Australia o Suáfrica
+7) Finalmente unas recomendaciones por si te encontrás con un tiburón... sobre todo si sos hombre y estás en USA, Australia o Sudáfrica
 
 ![Imagen local](images/recomendaciones.png)
 
